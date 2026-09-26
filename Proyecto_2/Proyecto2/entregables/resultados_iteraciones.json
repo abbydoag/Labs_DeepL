@@ -1,0 +1,110 @@
+{
+  "iter1_baseline": {
+    "promedio": 99.0,
+    "mejor": 105.0,
+    "metricas": [
+      {
+        "episodio": 0,
+        "seed": 42,
+        "pasos": 184,
+        "recompensa_total": 105.0
+      },
+      {
+        "episodio": 1,
+        "seed": 43,
+        "pasos": 386,
+        "recompensa_total": 105.0
+      },
+      {
+        "episodio": 2,
+        "seed": 44,
+        "pasos": 139,
+        "recompensa_total": 75.0
+      },
+      {
+        "episodio": 3,
+        "seed": 45,
+        "pasos": 176,
+        "recompensa_total": 105.0
+      },
+      {
+        "episodio": 4,
+        "seed": 46,
+        "pasos": 386,
+        "recompensa_total": 105.0
+      }
+    ]
+  },
+  "iter2": {
+    "promedio": 122.0,
+    "mejor": 340.0,
+    "metricas": [
+      {
+        "episodio": 0,
+        "seed": 42,
+        "pasos": 291,
+        "recompensa_total": 100.0
+      },
+      {
+        "episodio": 1,
+        "seed": 43,
+        "pasos": 266,
+        "recompensa_total": 135.0
+      },
+      {
+        "episodio": 2,
+        "seed": 44,
+        "pasos": 58,
+        "recompensa_total": 0.0
+      },
+      {
+        "episodio": 3,
+        "seed": 45,
+        "pasos": 508,
+        "recompensa_total": 340.0
+      },
+      {
+        "episodio": 4,
+        "seed": 46,
+        "pasos": 261,
+        "recompensa_total": 35.0
+      }
+    ]
+  },
+  "iter3": {
+    "promedio": 504.0,
+    "mejor": 685.0,
+    "metricas": [
+      {
+        "episodio": 0,
+        "seed": 42,
+        "pasos": 789,
+        "recompensa_total": 570.0
+      },
+      {
+        "episodio": 1,
+        "seed": 43,
+        "pasos": 970,
+        "recompensa_total": 545.0
+      },
+      {
+        "episodio": 2,
+        "seed": 44,
+        "pasos": 786,
+        "recompensa_total": 600.0
+      },
+      {
+        "episodio": 3,
+        "seed": 45,
+        "pasos": 223,
+        "recompensa_total": 120.0
+      },
+      {
+        "episodio": 4,
+        "seed": 46,
+        "pasos": 648,
+        "recompensa_total": 685.0
+      }
+    ]
+  }
+}
